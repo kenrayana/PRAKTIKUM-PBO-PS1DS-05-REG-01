@@ -4,8 +4,8 @@ Repositori ini adalah tempat pengumpulan tugas dan laporan praktikum Pemrograman
 
 ## Identitas Praktikan
 Silakan ganti teks di dalam kurung siku dengan identitas Anda:
-- **Nama Lengkap:** [Isi Nama Lengkap Anda di sini]
-- **NIM:** [Isi NIM Anda di sini]
+- **Nama Lengkap:** Ken Rayana Ilma Madani
+- **NIM:** 103132430008
 
 ## Struktur Direktori
 
